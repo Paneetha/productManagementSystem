@@ -1,3 +1,2 @@
-This is a Projec management system
-Language PHP
-Framework Laravel
+This is a Project management system
+Language PHP, Framework Laravel
